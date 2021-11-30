@@ -32,7 +32,7 @@ sections:
           - pr-4
         alignItems: flex-start
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
         borderRadius: none
         borderWidth: 0
         borderStyle: none
